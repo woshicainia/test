@@ -1,6 +1,6 @@
 /**
  * Created by wangxiaowei on 2020/9/2.
- * 我的第一个程序
+ *
  */
 public class HelloWorld {
     /*
