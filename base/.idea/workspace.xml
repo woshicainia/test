@@ -5,52 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bdae9737-309e-4a44-87cd-21d2e87e545e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day024/day024.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day024/src/Stream/ConcatTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day024/src/Stream/CountTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day024/src/Stream/FilterTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day024/src/Stream/ForEachTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day024/src/Stream/GetStream.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day024/src/Stream/LimitTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day024/src/Stream/MapTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day024/src/Stream/SkipTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day024/src/Stream/StreamTest01.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day024/src/Stream/StreamTest02.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day024/src/demo01/ConsumerTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day024/src/demo01/FunctionAndThenTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day024/src/demo01/FunctionTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day024/src/demo01/MessageBuilder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day024/src/demo01/PredicateAndTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day024/src/demo01/PredicateTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day024/src/demo01/Test01.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day024/src/demo01/Test02.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day024/src/demo01/Test03.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day024/src/demo01/Test04.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day024/src/demo01/Test05.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day024/src/demo01/Test06.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day024/src/demo01/TestAndThen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day024/src/demo01/TestLog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day024/src/demo02/HuMan.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day024/src/demo02/JieKou1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day024/src/demo02/JieKou2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day024/src/demo02/JieKou3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day024/src/demo02/JieKou4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day024/src/demo02/JieKou5.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day024/src/demo02/Man.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day024/src/demo02/MethodRefefObject.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day024/src/demo02/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day024/src/demo02/Printable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day024/src/demo02/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day024/src/demo02/Test01.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day024/src/demo02/Test02.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day024/src/demo02/Test03.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day024/src/demo02/Test04.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day024/src/reflect/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day024/src/reflect/ReflectTest01.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day024/src/reflect/ReflectTest02.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day024/src/reflect/ReflectTest03.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day024/src/reflect/Test.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="base.iws" />
@@ -870,7 +824,7 @@
       <workItem from="1600858834229" duration="5184000" />
       <workItem from="1600911136612" duration="6368000" />
       <workItem from="1600922581962" duration="11092000" />
-      <workItem from="1600944899129" duration="10189000" />
+      <workItem from="1600944899129" duration="10217000" />
     </task>
     <task id="LOCAL-00001" summary="第三天的代码">
       <created>1599125583150</created>
@@ -1033,7 +987,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600867369766</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="第二十四天的代码">
+      <created>1600959547725</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1600959547725</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1069,7 +1030,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="350511000" />
+    <option name="totallyTimeSpent" value="350539000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1145,7 +1106,8 @@
     <MESSAGE value="第二十一天的代码" />
     <MESSAGE value="第二十二天的代码" />
     <MESSAGE value="第二十三天的代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="第二十三天的代码" />
+    <MESSAGE value="第二十四天的代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二十四天的代码" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1224,6 +1186,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1238,6 +1201,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
           <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1245,6 +1211,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <folding>
+            <element signature="e#136#137#0" expanded="false" />
+            <element signature="e#173#174#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1252,6 +1222,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
           <caret line="19" column="57" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="57" />
+          <folding>
+            <element signature="e#126#127#0" expanded="false" />
+            <element signature="e#158#159#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1259,6 +1233,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="62" column="24" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1274,6 +1249,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding>
+            <element signature="e#144#145#0" expanded="false" />
+            <element signature="e#175#176#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
